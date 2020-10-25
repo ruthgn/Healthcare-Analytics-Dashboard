@@ -1,8 +1,8 @@
-# Clinical-Analytics-Dashboard
+# Healthcare-Analytics-Dashboard
 
 Author: Ruth G. Nainggolan
 
-Interactive dashboard exploring clinic patient volume by time of the day, waiting time and care score. Drill down into high-volume days to view how the busy environment may have affected patient experience.
+Interactive healthcare dashboard providing a detailed breakdown of patients’ overall satisfaction with various departments within a network of three clinics. Dashboard contains clinic patient volume by time of the day, waiting time, and care score.
 
 Files
 -----
