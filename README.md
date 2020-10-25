@@ -2,13 +2,13 @@
 
 Author: Ruth G. Nainggolan
 
-Interactive healthcare dashboard providing a detailed breakdown of patients’ overall satisfaction with various departments within a network of three clinics. Dashboard contains clinic patient volume by time of the day, waiting time, and care score.
+This project shows you how to visualize and analyze explainable AI (xAI) models with Dash and IBM’s AI Explainability 360 (AIX360). It uses a LogisticRuleRegression model trained on the UCI Heart Disease data set for predicting the presence of heart disease in Cleveland patients.
 
-Check out the finished dashboard → https://algoruthm.dev/Exploring-patient-experience-with-an-interactive-healthcare-dashboard/
+Check out the finished visualization → https://algoruthm.dev/
 
 Files
 -----
 
-* Data folder containing dataset (clinical-analytics.csv) for the dashboard.
-* Jupyter notebook containing project code (healthcare-dashboard.ipynb).
-* A copy of the environment (healthcaredashenv.yml) where I run this project. *Note*: You will also have to install JupyterDash to display the dashboard on your Jupyter notebook--details available [here](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e).
+* Project [dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease) (heart.csv).
+* Jupyter notebook containing project code (heart-disease-prediction.ipynb).
+* A copy of the environment (heartdiseasedashenv.yml) where the project can be run.
