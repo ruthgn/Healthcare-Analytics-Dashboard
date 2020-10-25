@@ -9,4 +9,4 @@ Files
 
 * Data folder containing dataset (clinical-analytics.csv) for the dashboard.
 * Jupyter notebook containing project code (healthcare-dashboard.ipynb).
-* A copy of the environment (algoruthmenv.yml) where I run this project. *Note*: You will also have to install JupyterDash on your base enviroment to display the dashboard on your Jupyter notebook--details available [here](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e).
+* A copy of the environment (clinicalanalyticsdashenv.yml) where I run this project. *Note*: You will also have to install JupyterDash on your base enviroment to display the dashboard on your Jupyter notebook--details available [here](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e).
