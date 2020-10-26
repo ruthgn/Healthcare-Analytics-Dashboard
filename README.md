@@ -2,7 +2,7 @@
 
 Author: Ruth G. Nainggolan
 
-This project shows you how to visualize and analyze explainable AI (xAI) models with Dash and IBM’s AI Explainability 360 (AIX360). It uses a LogisticRuleRegression model trained on the UCI Heart Disease data set for predicting the presence of heart disease in Cleveland patients.
+Interactive healthcare dashboard providing a detailed breakdown of patients’ overall satisfaction with various departments within a network of three clinics. The dashboard can display each clinic's patient volume by time of the day, waiting time, and overall customer satisfaction or care score. 
 
 Check out the finished visualization → https://algoruthm.dev/Exploring-patient-experience-with-interactive-healthcare-dashboard/
 
