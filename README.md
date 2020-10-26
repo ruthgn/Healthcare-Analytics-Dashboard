@@ -9,6 +9,6 @@ Check out the finished visualization → https://algoruthm.dev/Exploring-patient
 Files
 -----
 
-* Project [dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease) (heart.csv).
-* Jupyter notebook containing project code (heart-disease-prediction.ipynb).
-* A copy of the environment (heartdiseasedashenv.yml) where the project can be run.
+* Data folder containing dataset (clinical_analytics.csv) for the dashboard.
+* Jupyter notebook containing project code (healthcare-dashboard.ipynb).
+* A copy of the environment (healthcaredashenv.yml) where the project can be run.
